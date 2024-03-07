@@ -157,7 +157,7 @@ a:hover {
     */
     box-sizing: border-box;
     padding-right: 20px;
-  width: 254px;
+  width: 252px;
   
 }
 
@@ -193,7 +193,7 @@ a:hover {
 }
 
 .col-2 ul li {
-  margin-bottom: 7px
+  margin-bottom: 6px
 }
 
 .footer a {
