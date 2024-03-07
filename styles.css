@@ -1,6 +1,5 @@
 
 
-<link href="https://db.onlinewebfonts.com/c/499a9b7e46661c79fd3aa2542cbdc440?family=SF+UI+Display+Medium" rel="stylesheet">
 
 @font-face{
     font-family: "DIN Condensed";
@@ -16,14 +15,17 @@
 }
 
 
-@font-face {
+@font-face{
     font-family: "SF UI Display Medium";
-    src: url("https://db.onlinewebfonts.com/t/499a9b7e46661c79fd3aa2542cbdc440.eot");
-    src: url("https://db.onlinewebfonts.com/t/499a9b7e46661c79fd3aa2542cbdc440.eot?#iefix")format("embedded-opentype"),
-    url("https://db.onlinewebfonts.com/t/499a9b7e46661c79fd3aa2542cbdc440.woff2")format("woff2"),
-    url("https://db.onlinewebfonts.com/t/499a9b7e46661c79fd3aa2542cbdc440.woff")format("woff"),
-    url("https://db.onlinewebfonts.com/t/499a9b7e46661c79fd3aa2542cbdc440.ttf")format("truetype"),
-    url("https://db.onlinewebfonts.com/t/499a9b7e46661c79fd3aa2542cbdc440.svg#SF UI Display Medium")format("svg");
+    src: url("499a9b7e46661c79fd3aa2542cbdc440.eot");
+    src: url("499a9b7e46661c79fd3aa2542cbdc440.eot?#iefix")format("embedded-opentype"),
+        url("499a9b7e46661c79fd3aa2542cbdc440.woff")format("woff"),
+        url("499a9b7e46661c79fd3aa2542cbdc440.woff2")format("woff2"),
+        url("499a9b7e46661c79fd3aa2542cbdc440.ttf")format("truetype"),
+        url("499a9b7e46661c79fd3aa2542cbdc440.svg#SF UI Display Medium")format("svg");
+    font-weight:normal;
+    font-style:normal;
+    font-display:swap;
 }
 
 
