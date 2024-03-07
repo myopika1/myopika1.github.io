@@ -157,8 +157,13 @@ a:hover {
     */
     box-sizing: border-box;
     padding-right: 20px;
-  width: 252px;
+  width: 257px;
   
+}
+
+.col-2{
+  width: 254px;
+    
 }
 
 .col-3{
