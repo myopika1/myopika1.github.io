@@ -194,18 +194,18 @@ a:hover {
     margin: 0;
     padding: 0;
     color: #5A5A5A;
-  max-width: 237px
+  max-width: 237px;
     float: left
 }
 
 .col-1 ul li {
-  margin-bottom: 19px
-        line-height: 22px;
+  margin-bottom: 19px;
+ line-height: 22px;
 
 }
 
 .col-2 ul li {
-  margin-bottom: 7px
+  margin-bottom: 7px;
 }
 
 .footer a {
