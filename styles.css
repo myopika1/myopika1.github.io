@@ -217,7 +217,7 @@ a:hover {
     gap: 36px;
     max-width: 429px;
     text-align: center;
-    margin-left: 320px;
+    margin-left: 323px;
     margin-top: 71px;
 }
 
@@ -250,13 +250,13 @@ a:hover {
 
 #second {
     color: #5A5A5A;
-      letter-spacing: 0px;
+      letter-spacing: -2.5px;
 }
 
 #second h1 {
-    font-size: 97px;
-    line-height: 71px;
-    
+    font-size: 96px;
+    line-height: 0.75;
+     font-style:normal;
     text-align: left;
     margin: 0;
     padding: 0;
