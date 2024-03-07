@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles.css">
+ 
+    <title>Одежда с характером</title>
+</head>
+
+<body>
+    <div class="wrapper">
+        <section1 class="main">
+            <header class="header">
+                <a href="/" id="logo">вязань</a>
+                <nav class="menu">
+                    <ul>
+                        <li><a href="#">Одежда</a></li>
+                        <li><a href="#">Шапки</a></li>
+                        <li><a href="#">Варежки</a></li>
+                        <li><a href="#">Шарфы</a></li>
+                    </ul>
+                </nav>
+            </header>
+
+
+
+            <div class="hero">
+                <div id="description">
+                    Коллаборация с петербургским стрит-арт-художником <span id="yellow">Турбеном</span>
+                </div>
+                <div id="second">
+                    <h1>одежда с характером</h1>
+                </div>
+            </div>
+
+
+        </section1>
+
+
+
+        <footer class="footer">
+            
+                <div class="row">
+  <div class="col-1"> <ul>
+                       <li>Рязань <br>
+улица Воровского, 21</li>
+                      <li>8-495-862-66-42</li>
+                      </ul>
+                  
+                  <ul>
+    <!-- Колонка на всю ширину страницы -->
+  </div>
+     <div class="col-2"> <ul>
+                      
+                        <li><a href="#">Оплата</a></li>
+                        <li><a href="#">Доставка</a></li>
+                        <li><a href="#">Уход за вещами</a></li>
+                        
+                    </ul>
+       
+</div>
+    <div class="col-3"> <a href="/" >вязань</a> </div>
+      
+    </div>
+
+
+                
+          
+                  </footer>
+          
+          
+                
+            
+
+    </div>
+</body>
+
+</html>
