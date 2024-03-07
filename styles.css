@@ -63,8 +63,8 @@ a:hover {
     
     
     letter-spacing: 0px;
-    padding-left: 60px;
-  margin-right: 42px;
+    padding-left: 57px;
+  margin-right: 46px;
     color: #FFF;
 }
 
@@ -157,7 +157,7 @@ a:hover {
     */
     box-sizing: border-box;
     padding-right: 20px;
-  width: 237px;
+  width: 254px;
   
 }
 
@@ -189,11 +189,11 @@ a:hover {
 }
 
 .col-1 ul li {
-  margin-bottom: 20px
+  margin-bottom: 16px
 }
 
 .col-2 ul li {
-  margin-bottom: 10px
+  margin-bottom: 7px
 }
 
 .footer a {
@@ -255,4 +255,5 @@ a:hover {
 #yellow {
     color: #FAE229;
 }
+
 
