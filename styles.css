@@ -253,13 +253,13 @@ a:hover {
 
 #second {
     color: #5A5A5A;
-      letter-spacing: -2.7px;
+      letter-spacing: 0px;
 }
 
 #second h1 {
     font-size: 97px;
     line-height: 71px;
-    font-weight: 700;
+    
     text-align: left;
     margin: 0;
     padding: 0;
