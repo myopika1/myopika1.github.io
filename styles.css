@@ -3,17 +3,18 @@
 <link href="https://db.onlinewebfonts.com/c/499a9b7e46661c79fd3aa2542cbdc440?family=SF+UI+Display+Medium" rel="stylesheet">
 
 @font-face{
-    font-family: "DIN Condensed Web";
-    src: url("69dbc1186412d7831b88d8a78a360360.eot");
-    src: url("69dbc1186412d7831b88d8a78a360360.eot?#iefix")format("embedded-opentype"),
-        url("69dbc1186412d7831b88d8a78a360360.woff")format("woff"),
-        url("69dbc1186412d7831b88d8a78a360360.woff2")format("woff2"),
-        url("69dbc1186412d7831b88d8a78a360360.ttf")format("truetype"),
-        url("69dbc1186412d7831b88d8a78a360360.svg#DIN Condensed Web")format("svg");
+    font-family: "DIN Condensed";
+    src: url("954a505bdd1fd46577f8b93badf61c8c.eot");
+    src: url("954a505bdd1fd46577f8b93badf61c8c.eot?#iefix")format("embedded-opentype"),
+        url("954a505bdd1fd46577f8b93badf61c8c.woff")format("woff"),
+        url("954a505bdd1fd46577f8b93badf61c8c.woff2")format("woff2"),
+        url("954a505bdd1fd46577f8b93badf61c8c.ttf")format("truetype"),
+        url("954a505bdd1fd46577f8b93badf61c8c.svg#DIN Condensed")format("svg");
     font-weight:normal;
     font-style:normal;
     font-display:swap;
 }
+
 
 @font-face {
     font-family: "SF UI Display Medium";
@@ -33,7 +34,7 @@ body {
 }
 
 h1 { 
-    font-family: "DIN Condensed Web";
+    font-family: "DIN Condensed";
     font-size: 96px;
   font-weight: normal;
 
@@ -59,7 +60,7 @@ a:hover {
 }
 
 #logo {
-    font-family: "DIN Condensed Web";
+    font-family: "DIN Condensed";
     font-size: 96px;
     line-height: 0.75;
    float: left;
@@ -72,7 +73,7 @@ a:hover {
 }
 
 #logo2 {
-    font-family: "DIN Condensed Web";
+    font-family: "DIN Condensed";
     font-size: 167px;
     line-height: 20px;
     height: 72px;
@@ -176,7 +177,7 @@ a:hover {
 
 .footer .col-3 a {
   color: #A463BD;
-  font-family: "DIN Condensed Web";
+  font-family: "DIN Condensed";
     font-size: 167px;
   line-height: 100px;
     letter-spacing: 0px;
